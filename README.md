@@ -1,4 +1,4 @@
 <h1 align="center">
-         My Projects
+         Mini Projects
   </h1>
           
