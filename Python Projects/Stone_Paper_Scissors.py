@@ -46,4 +46,3 @@ elif(a==False):
     print("You loss the game, better luck next time")
 elif(a==None):
     print("Match draw")
-
